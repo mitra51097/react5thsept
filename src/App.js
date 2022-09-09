@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          ReactDummy
+          AfterAddingCanonicalUserInBucketPolicy
         </a>
       </header>
     </div>
